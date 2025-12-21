@@ -37,20 +37,6 @@ A powerful and customizable iOS library for filtering and managing regions using
 
 ## Installation
 
-### CocoaPods
-
-[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate RegionMapFilter into your Xcode project using CocoaPods, specify it in your `Podfile`:
-
-```ruby
-pod 'RegionMapFilter', '~> 1.0.2'
-```
-
-Then run:
-
-```bash
-pod install
-```
-
 ### Swift Package Manager
 
 You can also use Swift Package Manager to add RegionMapFilter to your project:
